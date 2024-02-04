@@ -1,7 +1,7 @@
 // Variables
 $font-family: "Nunito Sans", sans-serif;
 $primary-color: #329bc9;
-$secondary-color: #374956;
+$secondary-color: #374956d1;
 $light-gray: #7b878b;
 $light-gray-transparent: rgba(123, 135, 139, 0.4);
 $background-color: #e0e7f1;
@@ -198,6 +198,14 @@ dialog {
       }
     }
   }
+}
+
+#copyright{
+  color: $secondary-color;
+  font-size: 12px;
+  position: absolute;
+  right: 30px;
+  bottom: 20px;
 }
 
 // Media Queries

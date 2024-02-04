@@ -1,29 +1,18 @@
-# advarra_login
+# Project Name: Adverra Login
 
-This template should help get you started developing with Vue 3 in Vite.
+## Technologies Used:
+- Vue3
+- Vite
+- SCSS
 
-## Recommended IDE Setup
+## Steps to Follow:
+1. Clone the repository to your local machine.
+2. Navigate to the project directory in your terminal.
+3. Run `npm install` to install the necessary dependencies.
+4. After the installation is complete, run `npm run dev` to start the development server.
+5. Open your browser and navigate to the provided local development server link (usually `http://localhost:5173`).
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Live Link:
+[Adverra Login](https://adverra-login.web.app/)
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Feel free to explore and use the Adverra Login application. If you have any questions or feedback, please don't hesitate to reach out!

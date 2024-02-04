@@ -2,18 +2,8 @@
 import { ref } from "vue";
 import SignForm from "./components/SignForm.vue";
 
-const selectedOptions = ref([]);
 const openSuccess = ref(false)
-const options = ref([
-  { value: "option1", label: "Option 1" },
-  { value: "option2", label: "Option 2" },
-  { value: "option3", label: "Option 3" },
-  // Add more options as needed
-]);
 
-const handleOptionChange = () => {
-  // Handle option change if needed
-};
 const openDialog = () => {
   debugger
   openSuccess.value = true;
@@ -53,6 +43,7 @@ const closeDialog = () => {
 
     </div>
   </dialog>
+  <p id="copyright">Copyright &copy; 2024 Longboat | Privacy Policy</p>
 </template>
 
 <style lang="scss">
